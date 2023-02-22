@@ -1,0 +1,16 @@
+div.relative{
+  position: relative;
+  left:100px;
+  top:40px;
+}
+
+.amount{
+  width : 100px;
+  height : 25px;
+}
+
+.types1{
+  width: 100px;
+  height: 25px;
+}
+
